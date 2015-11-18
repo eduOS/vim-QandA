@@ -34,13 +34,13 @@ Add this line to your ~/.bashrc or ~/.zshrc if zsh is installed:
 ![scripts](https://cloud.githubusercontent.com/assets/5717031/11239210/60610d96-8e25-11e5-93ec-c619c1d28ca1.png)    
 
 # Todo
--[ ] vim interface design and completion
--[x] dump all transcript to database
--[x] modify the dump_to_tatabase function through str mangement and line-by-line absorb
--[x] optimize the refresh function allowing per episode refreshment.
--[ ] alter database for every line
--[ ] alter database for panellist
-
+-[ ] vim interface design and completion    
+-[x] dump all transcript to database    
+-[x] modify the dump_to_tatabase function through str mangement and line-by-line absorb    
+-[x] optimize the refresh function allowing per episode refreshment.    
+-[ ] alter database for every line    
+-[ ] alter database for panellist    
+    
 # License     
 MIT    
 
