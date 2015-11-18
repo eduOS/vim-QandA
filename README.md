@@ -5,7 +5,7 @@ vim-QandA is a Vim plugin that includes two separated parts: one for crawling tr
 Make sure that Python and MySQL is installed.   
 
 # Installation   
-Copy plugin/vim-QandA to ~/.vim/plugin   
+Copy plugin/vim-QandA to ~/.vim/bundle   
 Or add a GitHub repository entry if you are using a Plugin Manager such as Vundle:  
 ```Plugin 'eduOS/vim-QandA'```  
 
