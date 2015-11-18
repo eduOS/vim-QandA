@@ -31,7 +31,7 @@ Add this line to your ~/.bashrc or ~/.zshrc if zsh is installed:
 
 # Screenshots
 ![list](https://cloud.githubusercontent.com/assets/5717031/11239207/5ee52e0c-8e25-11e5-8ac1-8163c172657a.png)    
-![scripts](https://cloud.githubusercontent.com/assets/5717031/11239210/60610d96-8e25-11e5-93ec-c619c1d28ca1.png)    
+![details](https://cloud.githubusercontent.com/assets/5717031/11239711/a3276370-8e28-11e5-8579-e8188e55d4ee.png)
 
 # Todo
 - [ ] vim interface design and completion    
