@@ -47,7 +47,3 @@ Add this line to your ~/.bashrc or ~/.zshrc if zsh is installed:
 # License     
 MIT    
 
-    
-# License     
-MIT    
-
