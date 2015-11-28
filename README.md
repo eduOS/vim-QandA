@@ -2,7 +2,7 @@
 vim-QandA is a Vim plugin that includes two separated parts: one for crawling transcript and panellist information from the website of the Australia talk show Q&A; another for showing these information in my favorite editor Vim.
 
 # Prerequisites   
-Make sure that Python and MySQL is installed.   
+Make sure that Python and MySQL have been installed.   
 
 # Installation   
 Copy plugin/vim-QandA to ~/.vim/bundle   
